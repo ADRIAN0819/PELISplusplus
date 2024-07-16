@@ -10,7 +10,7 @@
 
 -Camila Espinoza Cabrera- 202220389
 
--Gabriel Frisancho Gálvez
+-Gabriel Frisancho Gálvez- 202310080
 
 ## Plataforma de Streaming PELIS ++
 
