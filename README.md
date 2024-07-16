@@ -1,6 +1,7 @@
 # Programación III: Proyecto Final (2024-1)
 
 * VIDEO DE LA EXPOSICIÓN , se puede ver en el siguiente enlace: [link](https://www.canva.com/design/DAGLEfuaNm4/QK1n3-yhyHqjx-3pKCHqZg/edit?utm_content=DAGLEfuaNm4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).
+* SEGUNDA MANERA DE VER EL VIDEO: [link] (https://drive.google.com/drive/folders/13ZEHVgjAU-Xete_bkWrb-6EzRSZZFqf4?usp=drive_link)
 
 ## Integrantes
 
