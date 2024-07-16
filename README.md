@@ -1,6 +1,6 @@
 # Programación III: Proyecto Final (2024-1)
 
-* VIDEO DE LA EXPOSICIÓN , se puede ver en el siguiente enlace: [link](https://www.canva.com/design/DAGLEfuaNm4/QK1n3-yhyHqjx-3pKCHqZg/edit?utm_content=DAGLEfuaNm4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).
+*VIDEO DE LA EXPOSICIÓN , se puede ver en el siguiente enlace: [link](https://www.canva.com/design/DAGLEfuaNm4/QK1n3-yhyHqjx-3pKCHqZg/edit?utm_content=DAGLEfuaNm4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).
 
 ## Integrantes
 
@@ -10,7 +10,7 @@
 
 -Camila Espinoza Cabrera- 202220389
 
--Gabriel Frisancho Gálvez
+-Gabriel Frisancho Gálvez- 202310080
 
 ## Plataforma de Streaming PELIS ++
 
